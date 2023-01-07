@@ -12,6 +12,8 @@ options:
   --voice VOICE  Select a voice
 ```
 
+List of all available voices: [Voices in Amazon Polly](https://docs.aws.amazon.com/polly/latest/dg/voicelist.html)
+
 https://user-images.githubusercontent.com/2078392/211122803-04dd8c27-b5dc-41ef-931c-55932676f442.mp4
 
 ## Installation
