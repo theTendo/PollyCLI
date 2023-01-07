@@ -12,6 +12,8 @@ options:
   --voice VOICE  Select a voice
 ```
 
+https://user-images.githubusercontent.com/2078392/211122803-04dd8c27-b5dc-41ef-931c-55932676f442.mp4
+
 ## Installation
 
 ### AWS Configuration
