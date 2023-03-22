@@ -36,6 +36,6 @@ Then install the required libraries with:
 
 You can create a file `/usr/bin/polly` with the following content:
 
-`python3 /path/to/script/polly.py $1 $2`
+`python3 /path/to/script/polly.py $@`
 
 And use it by calling `polly` from the command line.
